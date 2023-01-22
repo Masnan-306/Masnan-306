@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masnan-306
 - 👀 I’m interested in Computer Science in general
-- 🌱 I’m currently learning functional programming
+- 🌱 I’m currently learning computer system and software engineering
 - 💞️ I’m looking to collaborate on any fun projects
 
 <!---
