@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Masnan Wang (@Masnan-306)
+# 👋 Hi, I’m Zhinan Wang (@Masnan-306)
 
 **Aspiring SWE/SRE** | **SWE Intern @ Glober AI** | **Research Assistant @ CMU TEEL Lab**
+
 **CS @ Carnegie Mellon University, Class of 2025**
 
 ---
