@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Masnan Wang (@Masnan-306)
 
-**Aspiring Software Engineer** | **SWE Intern @ Glober AI** | **Research Assistant @ CMU TEEL Lab** | **Teaching Assistant @ 16-385 Computer Vision**  
+**Aspiring SWE/SRE** | **SWE Intern @ Glober AI** | **Research Assistant @ CMU TEEL Lab**
 **CS @ Carnegie Mellon University, Class of 2025**
 
 ---
