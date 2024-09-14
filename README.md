@@ -8,14 +8,14 @@
 
 ## 🔧 Key Projects
 
-### [🚀 Lock-free Concurrent Radix Tree in C++](https://github.com/Masnan-306/Concurrent-Radix-Trie)
-- Developed a lock-free radix tree designed for concurrent data structures with good speedup.
-
 ### [🧠 Deterministic Large Language Model Service](https://github.com/Masnan-306/deterministicLLM)
 - Created a deterministic LLM service with a complete CI/CD pipeline using Terraform, Kubernetes, and Docker.
 
 ### [📝 Educational Enhancements for NodeBB Forum](https://github.com/CMU-313/spring23-nodebb-team-dave)
-- Extended NodeBB Web-app with new features including Post Endorsement, TA Roles, and ML-based Candidate Recommendation.
+- Extended NodeBB Web-app with features including Post Endorsement, TA Roles, and ML-based Candidate Recommendation.
+
+### [🚀 Lock-free Concurrent Radix Tree in C++](https://github.com/Masnan-306/Concurrent-Radix-Trie)
+- Developed a lock-free radix tree designed for concurrent data structures with good speedup.
 
 ### [🤸‍♂️ Simple Pose Estimator](https://github.com/Masnan-306/PoseEstimationTrainer)
 -  Built a single-camera pose estimator to predict human elbow angles.
