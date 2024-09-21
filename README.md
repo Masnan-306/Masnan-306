@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Key Projects
+## 🔧 Some Projects
 
 ### [🧠 Deterministic Large Language Model Service](https://github.com/Masnan-306/deterministicLLM)
 - Created a deterministic LLM service with a complete CI/CD pipeline using Terraform, Kubernetes, and Docker.
