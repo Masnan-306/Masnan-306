@@ -18,7 +18,7 @@
 - Developed a lock-free radix tree designed for concurrent data structures with good speedup.
 
 ### [🤸‍♂️ Simple Pose Estimator](https://github.com/Masnan-306/PoseEstimationTrainer)
--  Built a single-camera pose estimator to predict human elbow angles.
+-  Built a single-camera pose estimator to predict human elbow angles with my friends in CMU Build18 Hackathon.
 
 ---
 
